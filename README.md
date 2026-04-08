@@ -8,4 +8,4 @@ SHORT LEU | $173.59 → $54 | -69% Downside
 
 Six independent pillars of primary-source evidence. Three independent valuation methods. Every data point sourced and verifiable.
 
-**[View the full thesis →](https://nayvr-boop.github.io/Pranay-Sethi-stock-pitch/)**
+**[View the full thesis →](https://pranaysethi20.github.io/Pranay-Sethi-stock-pitch/)**

@@ -2,7 +2,7 @@
 
 **Perplexity Computer Stock Pitch Competition 2026**
 
-**Pranay Sethi** · NYU Stern
+**Pranay Sethi** · Boston University
 
 SHORT LEU | $173.59 → $54 | -69% Downside
 

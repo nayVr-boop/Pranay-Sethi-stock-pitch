@@ -1,2 +1,11 @@
-# Pranay-Sethi-stock-pitch
-stock screener competition
+# Centrus Energy (NYSE: LEU) — Short Thesis
+
+**Perplexity Computer Stock Pitch Competition 2026**
+
+**Pranay Sethi** · NYU Stern
+
+SHORT LEU | $173.59 → $54 | -69% Downside
+
+Six independent pillars of primary-source evidence. Three independent valuation methods. Every data point sourced and verifiable.
+
+**[View the full thesis →](https://nayvr-boop.github.io/Pranay-Sethi-stock-pitch/)**
